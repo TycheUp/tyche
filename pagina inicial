@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TycheUp</title>
+    <link rel="stylesheet" href="stylecapa2.css">
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <header>
+        <div class="logo">
+            <img src="LogoTycheUp.png" alt="logo" width="35" height="auto">
+            <span>TycheUp</span>
+        </div>
+
+
+        <nav>
+            <a href="#" class="active">Sobre nós</a>
+            <a href="#">Termos de serviço</a>
+            <a href="#">Política de privacidade</a>
+        </nav>
+
+        <div class="nav-buttons">
+            <button class="login-btn">login</button>
+            <button class="signup-btn">sign up</button>
+        </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero">
+        <div class="hero-left">
+            <h1>
+                EDUCAÇÃO<br>
+                FINANCEIRA<br>
+                QUE<br>
+                TRANSFORMA<br>
+                SEU FUTURO.
+            </h1>
+
+            <p>O MILAGRE PERSONALIZADO PARA SEU DINHEIRO.</p>
+        </div>
+
+        <div class="hero-right">
+            <img src="TycheUpcapa.png" alt="TycheUp" width="600" height="auto">
+        </div>
+    </section>
+
+    <footer>
+        © 2025 TycheUp. Todos os direitos reservados.
+    </footer>
+
+</body>
+</html>
+
